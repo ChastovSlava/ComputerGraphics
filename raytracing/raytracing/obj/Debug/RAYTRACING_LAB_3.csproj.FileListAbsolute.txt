@@ -1,0 +1,50 @@
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\bin\Debug\RAYTRACING_LAB_3.exe.config
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\bin\Debug\RAYTRACING_LAB_3.exe
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\bin\Debug\RAYTRACING_LAB_3.pdb
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\bin\Debug\OpenTK.dll
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\bin\Debug\OpenTK.pdb
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\bin\Debug\OpenTK.xml
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.csprojAssemblyReference.cache
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.exe.config
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.Form1.resources
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.Properties.Resources.resources
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.csproj.GenerateResource.cache
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.csproj.CopyComplete
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.exe
+C:\Users\sanda\source\repos\RAYTRACING_LAB_3\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\bin\Debug\RAYTRACING_LAB_3.exe.config
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\bin\Debug\RAYTRACING_LAB_3.exe
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\bin\Debug\RAYTRACING_LAB_3.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\bin\Debug\OpenTK.dll
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\bin\Debug\OpenTK.pdb
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\bin\Debug\OpenTK.xml
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.csprojAssemblyReference.cache
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.exe.config
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.Form1.resources
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.Properties.Resources.resources
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.csproj.GenerateResource.cache
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.csproj.CoreCompileInputs.cache
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.csproj.CopyComplete
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.exe
+C:\Users\sasha\OneDrive\Рабочий стол\Lab_3_RayTraycing-03be30ca51bd8050b32a82016d42ebffaddc2426\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.pdb
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\bin\Debug\RAYTRACING_LAB_3.exe.config
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\bin\Debug\RAYTRACING_LAB_3.exe
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\bin\Debug\RAYTRACING_LAB_3.pdb
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\bin\Debug\OpenTK.dll
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\bin\Debug\OpenTK.GLControl.dll
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\bin\Debug\OpenTK.pdb
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\bin\Debug\OpenTK.xml
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\bin\Debug\OpenTK.GLControl.xml
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.csproj.AssemblyReference.cache
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.exe.config
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.Form1.resources
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.Properties.Resources.resources
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.csproj.GenerateResource.cache
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.csproj.CoreCompileInputs.cache
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\obj\Debug\RAYTRACI.04E00E25.Up2Date
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.exe
+C:\Users\crych\Downloads\RAYTRACING_LAB_3-master(1)\RAYTRACING_LAB_3-master\RAYTRACING_LAB_3\obj\Debug\RAYTRACING_LAB_3.pdb
